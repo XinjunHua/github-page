@@ -4,7 +4,7 @@ System.out.println("Hello, World!");
 ```
 
 ## Greeting
-Hi, I'm Xinjun (pronounced *shin-june*). I'm an international student from China. [Here's a picture of my hometown (click to see it)](hometown.JPG). Also, you can [jump to the section of my hometown]() if you want to see more.
+Hi, I'm Xinjun (pronounced *shin-june*). I'm an international student from China. [Here's a picture of my hometown (click to see it)](hometown.JPG). Also, you can [jump to the section of my hometown](![hometown2](hometown2.jpg)) if you want to see more.
 
 I'm a third year undergraduate in UCSD majoring in **CE**(computer engineering).
 
@@ -24,12 +24,13 @@ Some of my favourite information sources:
 
 Some of my goals in life:
 
-- [] travel to Japan
-- [] get Master's degree
+- [ ] travel to Japan
+- [ ] get Master's degree
 
 # Pictures of my hometown
-![hometown2](hometown2.jpg)
-![hometown3](hometown3.jpg)
+Some more pictures of my hometown:
+![hometown2](/hometown2.jpg)
+![hometown3](/hometown3.jpg)
 
 
 
