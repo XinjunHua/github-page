@@ -29,8 +29,8 @@ Some of my goals in life:
 
 # Pictures of my hometown
 Some more pictures of my hometown:
-![hometown2](/hometown2.jpg)
-![hometown3](/hometown3.jpg)
+![hometown2](https://github.com/XinjunHua/github-page/blob/main/hometown2.JPG)
+![hometown3](https://github.com/XinjunHua/github-page/blob/main/hometown3.JPG)
 
 
 
